@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora basica ",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "iniciar": "node index.js"
+  },
+  "keywords": [
+    "Realiza",
+    "operaciones",
+    "basicas",
+    "como",
+    "suma",
+    "y",
+    "resta."
+  ],
+  "author": "Douglas Espinoza",
+  "license": "ISC"
+}
