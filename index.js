@@ -1,3 +1,4 @@
+//TAREA 1 SEMANA 1 | CALCULADORA
 
 var valor1, valor2, tipoOperacion, resultado, colores;//Declaramos todas las variables
 
